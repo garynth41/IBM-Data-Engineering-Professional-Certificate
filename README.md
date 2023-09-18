@@ -1,5 +1,7 @@
-# IBM-Data-Engineering-Professional-Certificate
-## Data Engineer Hands-on Training 
+# IBM-Data-Engineering-Professional-Certificate 
+## Professional Certificate - 13 Course Series
+### ## Data Engineer Hands-on Training. In this program, you’ll learn in-demand skills like Python, SQL, and Databases
+
 
 ### Skills Gained:
 Master the most up-to-date practical skills and knowledge data engineers use in their daily roles
